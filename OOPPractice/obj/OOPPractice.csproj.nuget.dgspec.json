@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\C.SHARP.NET\\Practice\\Practice.csproj": {}
+    "D:\\Code\\C.SHARP.NET\\OOPPractice\\OOPPractice.csproj": {}
   },
   "projects": {
-    "D:\\Code\\C.SHARP.NET\\Practice\\Practice.csproj": {
+    "D:\\Code\\C.SHARP.NET\\OOPPractice\\OOPPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\C.SHARP.NET\\Practice\\Practice.csproj",
-        "projectName": "Practice",
-        "projectPath": "D:\\Code\\C.SHARP.NET\\Practice\\Practice.csproj",
+        "projectUniqueName": "D:\\Code\\C.SHARP.NET\\OOPPractice\\OOPPractice.csproj",
+        "projectName": "OOPPractice",
+        "projectPath": "D:\\Code\\C.SHARP.NET\\OOPPractice\\OOPPractice.csproj",
         "packagesPath": "C:\\Users\\kalpe\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\C.SHARP.NET\\Practice\\obj\\",
+        "outputPath": "D:\\Code\\C.SHARP.NET\\OOPPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kalpe\\AppData\\Roaming\\NuGet\\NuGet.Config"

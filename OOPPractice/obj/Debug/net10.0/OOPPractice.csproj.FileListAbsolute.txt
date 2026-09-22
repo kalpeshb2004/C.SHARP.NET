@@ -1,0 +1,15 @@
+D:\Code\C.SHARP.NET\OOPPractice\bin\Debug\net10.0\OOPPractice.exe
+D:\Code\C.SHARP.NET\OOPPractice\bin\Debug\net10.0\OOPPractice.deps.json
+D:\Code\C.SHARP.NET\OOPPractice\bin\Debug\net10.0\OOPPractice.runtimeconfig.json
+D:\Code\C.SHARP.NET\OOPPractice\bin\Debug\net10.0\OOPPractice.dll
+D:\Code\C.SHARP.NET\OOPPractice\bin\Debug\net10.0\OOPPractice.pdb
+D:\Code\C.SHARP.NET\OOPPractice\obj\Debug\net10.0\OOPPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C.SHARP.NET\OOPPractice\obj\Debug\net10.0\OOPPractice.AssemblyInfoInputs.cache
+D:\Code\C.SHARP.NET\OOPPractice\obj\Debug\net10.0\OOPPractice.AssemblyInfo.cs
+D:\Code\C.SHARP.NET\OOPPractice\obj\Debug\net10.0\OOPPractice.csproj.CoreCompileInputs.cache
+D:\Code\C.SHARP.NET\OOPPractice\obj\Debug\net10.0\OOPPractice.sourcelink.json
+D:\Code\C.SHARP.NET\OOPPractice\obj\Debug\net10.0\OOPPractice.dll
+D:\Code\C.SHARP.NET\OOPPractice\obj\Debug\net10.0\refint\OOPPractice.dll
+D:\Code\C.SHARP.NET\OOPPractice\obj\Debug\net10.0\OOPPractice.pdb
+D:\Code\C.SHARP.NET\OOPPractice\obj\Debug\net10.0\OOPPractice.genruntimeconfig.cache
+D:\Code\C.SHARP.NET\OOPPractice\obj\Debug\net10.0\ref\OOPPractice.dll
